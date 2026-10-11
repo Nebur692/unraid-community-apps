@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommunityApplications>
+  <Profile>
+**English**
+
+Apps and plugins maintained by Nebur692 for a home Unraid server tied to Home Assistant and single sign-on:
+
+- **HAPass Invitations** — schedulable guest links for Home Assistant: doors only from home or by Bluetooth, one device per link, country allowlist.
+- **HA Login Approval** — approve every Home Assistant login from your phone.
+- **ZITADEL, ZITADEL Login and oauth2-proxy** — single sign-on for your services.
+- **Zabbix Agent 6 LTS** (plugin) — the Zabbix agent with working hardware sensors.
+- **Claude Code Remote Control** (plugin) — the coding assistant on Unraid, reachable remotely.
+
+Each app has its own support thread on the Unraid forums; issues are also welcome on GitHub.
+
+**Español**
+
+Aplicaciones y plugins que mantiene Nebur692 para un servidor Unraid de casa unido a Home Assistant y al inicio de sesión único:
+
+- **HAPass Invitations** — enlaces de invitado programables para Home Assistant: puertas solo desde casa o por Bluetooth, un dispositivo por enlace, lista de países.
+- **HA Login Approval** — aprueba desde el móvil cada inicio de sesión en Home Assistant.
+- **ZITADEL, ZITADEL Login y oauth2-proxy** — inicio de sesión único para tus servicios.
+- **Zabbix Agent 6 LTS** (plugin) — el agente de Zabbix con los sensores de hardware funcionando.
+- **Claude Code Remote Control** (plugin) — el asistente de programación en Unraid, accesible a distancia.
+
+Cada aplicación tiene su hilo de soporte en el foro de Unraid; también se aceptan incidencias en GitHub.
+  </Profile>
+  <Icon>https://github.com/Nebur692.png</Icon>
+  <WebPage>https://github.com/Nebur692/unraid-community-apps</WebPage>
+  <Forum>https://forums.unraid.net/topic/200036-unraid-templates-nebur692/</Forum>
+  <DonateLink>https://github.com/sponsors/Nebur692</DonateLink>
+</CommunityApplications>

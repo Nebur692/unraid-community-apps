@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Name>Zabbix Agent 6 LTS</Name>
+  <Overview>Zabbix 6.0 LTS agent for Unraid, with the hardware sensor fixes (CPU temperature and others) the original plugin never had. Install it, point it at your Zabbix server from Settings, and monitor the NAS like any other host.</Overview>
+  <PluginURL>https://raw.githubusercontent.com/Nebur692/unraid-zabbix_agent-6lts/main/zabbix_agent.plg</PluginURL>
+  <PluginAuthor>Nebur692</PluginAuthor>
+  <Support>https://forums.unraid.net/topic/200001-plugin-zabbix-agent-60-lts-nebur692/</Support>
+  <Project>https://github.com/Nebur692/unraid-zabbix_agent-6lts</Project>
+  <ReadMe>https://raw.githubusercontent.com/Nebur692/unraid-zabbix_agent-6lts/main/README.md</ReadMe>
+  <Category>Tools:System</Category>
+  <IconFA>heartbeat</IconFA>
+</Plugin>
