@@ -10,6 +10,7 @@ Apps and plugins maintained by Nebur692 for a home Unraid server tied to Home As
 - **ZITADEL, ZITADEL Login and oauth2-proxy** — single sign-on for your services.
 - **Zabbix Agent 6 LTS** (plugin) — the Zabbix agent with working hardware sensors.
 - **Claude Code Remote Control** (plugin) — the coding assistant on Unraid, reachable remotely.
+- **Failover Guard** (plugin) — the NAS watches a site hosted elsewhere and takes over when it goes down.
 
 Each app has its own support thread on the Unraid forums; issues are also welcome on GitHub.
 
@@ -22,6 +23,7 @@ Aplicaciones y plugins que mantiene Nebur692 para un servidor Unraid de casa uni
 - **ZITADEL, ZITADEL Login y oauth2-proxy** — inicio de sesión único para tus servicios.
 - **Zabbix Agent 6 LTS** (plugin) — el agente de Zabbix con los sensores de hardware funcionando.
 - **Claude Code Remote Control** (plugin) — el asistente de programación en Unraid, accesible a distancia.
+- **Failover Guard** (plugin) — el NAS vigila una web alojada fuera y toma el relevo cuando se cae.
 
 Cada aplicación tiene su hilo de soporte en el foro de Unraid; también se aceptan incidencias en GitHub.
   </Profile>

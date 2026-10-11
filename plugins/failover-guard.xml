@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Name>Failover Guard</Name>
+  <Overview>Your Unraid box watches the site you host elsewhere, and takes over when it dies: it probes the primary server, switches traffic to a replica on the NAS when it stops answering, fails back with the data when it returns, and tells you about both.</Overview>
+  <PluginURL>https://raw.githubusercontent.com/Nebur692/failover-guard-unraid-plugin/main/failover-guard.plg</PluginURL>
+  <PluginAuthor>Nebur692</PluginAuthor>
+  <Support>https://github.com/Nebur692/failover-guard-unraid-plugin/issues</Support>
+  <Project>https://github.com/Nebur692/failover-guard-unraid-plugin</Project>
+  <ReadMe>https://raw.githubusercontent.com/Nebur692/failover-guard-unraid-plugin/main/README.md</ReadMe>
+  <Category>Network:Other Tools:System</Category>
+  <MinVer>6.12.0</MinVer>
+  <IconFA>shield</IconFA>
+</Plugin>

@@ -30,6 +30,7 @@ This repository is what Community Applications reads: the Docker templates and p
 | oauth2-proxy | Docker | [`templates/oauth2-proxy.xml`](templates/oauth2-proxy.xml) | [unraid-sso-templates](https://github.com/Nebur692/unraid-sso-templates) |
 | Zabbix Agent 6 LTS | Plugin | [`plugins/zabbix_agent.xml`](plugins/zabbix_agent.xml) | [unraid-zabbix_agent-6lts](https://github.com/Nebur692/unraid-zabbix_agent-6lts) |
 | Claude Code Remote Control | Plugin | [`plugins/claude-code.xml`](plugins/claude-code.xml) | [claude-code-remote-control-unraid-plugin](https://github.com/Nebur692/claude-code-remote-control-unraid-plugin) |
+| Failover Guard | Plugin | [`plugins/failover-guard.xml`](plugins/failover-guard.xml) | [failover-guard-unraid-plugin](https://github.com/Nebur692/failover-guard-unraid-plugin) |
 
 ### 📦 Installation
 
@@ -60,6 +61,7 @@ Este repositorio es lo que lee Community Applications: las plantillas de Docker 
 | oauth2-proxy | Docker | [`templates/oauth2-proxy.xml`](templates/oauth2-proxy.xml) | [unraid-sso-templates](https://github.com/Nebur692/unraid-sso-templates) |
 | Zabbix Agent 6 LTS | Plugin | [`plugins/zabbix_agent.xml`](plugins/zabbix_agent.xml) | [unraid-zabbix_agent-6lts](https://github.com/Nebur692/unraid-zabbix_agent-6lts) |
 | Claude Code Remote Control | Plugin | [`plugins/claude-code.xml`](plugins/claude-code.xml) | [claude-code-remote-control-unraid-plugin](https://github.com/Nebur692/claude-code-remote-control-unraid-plugin) |
+| Failover Guard | Plugin | [`plugins/failover-guard.xml`](plugins/failover-guard.xml) | [failover-guard-unraid-plugin](https://github.com/Nebur692/failover-guard-unraid-plugin) |
 
 ### 📦 Instalación
 
