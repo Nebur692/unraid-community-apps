@@ -17,7 +17,7 @@ REQUIRES the companion "zitadel" template from the same repository to already be
 &#13;
 Your reverse proxy needs a path-based rule so that requests to "/" and "/ui/v2/login/*" reach this container's port 3000, while everything else keeps going to the "zitadel" container's port 8080. See the setup guide below for an Nginx Proxy Manager example.&#13;
 &#13;
-Full setup guide: https://github.com/Nebur692/unraid-zitadel-templates</Overview>
+Full setup guide: https://github.com/Nebur692/unraid-sso-templates</Overview>
   <Category>Security: Network:Management</Category>
   <WebUI>http://[IP]:[PORT:3000]/ui/v2/login/</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/Nebur692/unraid-community-apps/main/templates/zitadel-login.xml</TemplateURL>

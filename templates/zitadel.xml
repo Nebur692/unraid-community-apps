@@ -19,7 +19,7 @@ IMPORTANT: besides filling in the "Master Key" field below, you MUST also replac
 &#13;
 Default admin login after first start: zitadel-admin@zitadel.&lt;your external domain&gt; / Password1! — you will be asked to change this password on first login (unless you disable that below).&#13;
 &#13;
-Full setup guide: https://github.com/Nebur692/unraid-zitadel-templates</Overview>
+Full setup guide: https://github.com/Nebur692/unraid-sso-templates</Overview>
   <Category>Security: Network:Management</Category>
   <WebUI>http://[IP]:[PORT:8080]/ui/console</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/Nebur692/unraid-community-apps/main/templates/zitadel.xml</TemplateURL>
